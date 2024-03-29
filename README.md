@@ -1,0 +1,2 @@
+# AI courses and resources
+ 
