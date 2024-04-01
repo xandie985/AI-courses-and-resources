@@ -6,6 +6,7 @@
  3. [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/watch?v=V_xro1bcAuA)
     * freeCodeCamp
   4. [DeepLizard](https://deeplizard.com/learn/video/v5cngxo4mIg) First 20 lessons free.
+  5. [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/)
    
 
 
@@ -15,6 +16,10 @@
 3. [Audio Course](https://huggingface.co/learn/audio-course)
 4. [Open Source AI Cookbook](https://huggingface.co/learn/cookbook)
 5. [ML for Games Course](https://huggingface.co/learn/ml-games-course)
+
+## Books
+1. [HuggingFace Cookbook](https://github.com/huggingface/cookbook) 
+   * This repo contains community-driven practical examples of building AI applications and solving various tasks with AI using open-source tools and models.
 
 ## University Courses:
 1. [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) Stanford / Winter 2024
@@ -55,3 +60,14 @@
 ## Maths and Statistics
 1. [Math for Machine Learning](https://www.youtube.com/watch?v=uZeDTwWcnuY&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&index=4) Weights and Biases
 2. 
+
+## ML Ops
+1. [Kaggle Post](https://www.kdnuggets.com/10-github-repositories-to-master-mlops)
+2. [Tutorials Datahags](https://dagshub.com/blog/tag/tutorials/)
+3. [ML Flow](https://github.com/mlflow/mlflow)
+4. [run.ai MLFLow basics](https://www.run.ai/guides/machine-learning-operations/mlflow)
+5. [MLOps basics GithubRepository](https://github.com/graviraja/MLOps-Basics)
+6. [MLFlow projects](https://mlflow.org/docs/latest/projects.html)
+
+Random datasheets:
+1. [docs for people, tools and libraries](https://docs.google.com/spreadsheets/u/0/d/1fo-4t75Y083R1ZFdfLonyhqKskrUElSDQfmHFgC1tOo/htmlview#)
