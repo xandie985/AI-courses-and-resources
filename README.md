@@ -17,6 +17,9 @@
 4. [Open Source AI Cookbook](https://huggingface.co/learn/cookbook)
 5. [ML for Games Course](https://huggingface.co/learn/ml-games-course)
 
+## GCP Courses
+1. [GCP Courses](https://github.com/sathishvj/awesome-gcp-certifications/tree/master)
+2. 
 ## Books
 1. [HuggingFace Cookbook](https://github.com/huggingface/cookbook) 
    * This repo contains community-driven practical examples of building AI applications and solving various tasks with AI using open-source tools and models.
@@ -25,6 +28,7 @@
 1. [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) Stanford / Winter 2024
 2. [Transformers](https://web.stanford.edu/class/cs25/prev_years/2023_winter/index.html) Stanford / Winter 2023
 3. [Large Language Models](https://stanford-cs324.github.io/winter2022/) Stanford / Winter 2022
+4. [MSc in AI, University of Amsterdam](https://uvafomo.github.io/) 2024
 
 ## Natural Language Processing 
 1. [AllenNLP](https://guide.allennlp.org/)
@@ -71,3 +75,12 @@
 
 Random datasheets:
 1. [docs for people, tools and libraries](https://docs.google.com/spreadsheets/u/0/d/1fo-4t75Y083R1ZFdfLonyhqKskrUElSDQfmHFgC1tOo/htmlview#)
+
+## Phd links:
+1. [Italian Universities and research openings](https://bandi.mur.gov.it/)
+2. 30.06.2024 [University of Calabria- 40k](https://bandi.mur.gov.it/bandi.php/public/fellowship/id_fellow/257988)
+
+
+## Designing ML Systems:
+1. [Stanford ML Lifecycle ](https://www.youtube.com/watch?v=Y4SpU_3vXL0&ab_channel=StanfordMLSysSeminars)
+2. 
