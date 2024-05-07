@@ -60,6 +60,7 @@
    10. Increasing LLM preocessing time 4X - [Pathway](https://pathway.com/)
        * [githubRepo](https://github.com/pathwaycom/pathway/blob/main/python/pathway/xpacks/llm/question_answering.py)
        * [Pathway RAG](https://pathway.com/developers/showcases/adaptive-rag#cheap-rags-up-for-grabs-how-we-cut-llm-costs-without-sacrificing-accuracy)
+   11. [Blog to work with LLMs](https://mlabonne.github.io/blog/)
 
 ## Maths and Statistics
 1. [Math for Machine Learning](https://www.youtube.com/watch?v=uZeDTwWcnuY&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&index=4) Weights and Biases
