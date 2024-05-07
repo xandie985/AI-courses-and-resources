@@ -84,4 +84,6 @@ Random datasheets:
 
 ## Designing ML Systems:
 1. [Stanford ML Lifecycle ](https://www.youtube.com/watch?v=Y4SpU_3vXL0&ab_channel=StanfordMLSysSeminars)
-2. 
+
+## Others:
+1. [Resource Blog](https://www.confetti.ai/resources)
