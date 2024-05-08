@@ -87,3 +87,4 @@ Random datasheets:
 
 ## Others:
 1. [Resource Blog](https://www.confetti.ai/resources)
+2. [Resource for books](https://www.reddit.com/r/learnmachinelearning/comments/gzk4wz/50_free_machine_learning_and_data_science_ebooks/)
